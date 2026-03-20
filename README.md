@@ -2,9 +2,9 @@
 
 <img src="https://images.blackroad.io/pixel-art/road-logo.png" alt="BlackRoad OS" width="80" />
 
-# gitea-ai-platform
+# RoadCode-ai-platform
 
-**Gitea AI Platform — Cloudflare Worker with Claude-powered PR code review, AI issue triage, auto-deploy webhooks, GitHub↔Gitea mirroring, and real-time dashboard API.**
+**RoadCode AI Platform — Cloudflare Worker with Claude-powered PR code review, AI issue triage, auto-deploy webhooks, GitHub↔RoadCode mirroring, and real-time dashboard API.**
 
 [![BlackRoad OS](https://img.shields.io/badge/BlackRoad_OS-Pave_Tomorrow-FF2255?style=for-the-badge&labelColor=000000)](https://blackroad.io)
 [![License](https://img.shields.io/badge/License-Proprietary-FF6B2B?style=for-the-badge&labelColor=000000)](./LICENSE)
@@ -20,7 +20,7 @@
 
 ## Overview
 
-Gitea AI Platform — Cloudflare Worker with Claude-powered PR code review, AI issue triage, auto-deploy webhooks, GitHub↔Gitea mirroring, and real-time dashboard API.
+RoadCode AI Platform — Cloudflare Worker with Claude-powered PR code review, AI issue triage, auto-deploy webhooks, GitHub↔RoadCode mirroring, and real-time dashboard API.
 
 ## License
 
