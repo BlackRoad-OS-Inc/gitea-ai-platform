@@ -1,5 +1,13 @@
 # gitea-ai-platform
 
+> RoadCode AI Platform — code review, issue triage, auto-deploy webhooks, mirroring, and dashboard. Proprietary BlackRoad OS, Inc.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
+# gitea-ai-platform
+
 RoadCode AI Platform — code review, issue triage, auto-deploy webhooks, mirroring, and dashboard. Proprietary BlackRoad OS, Inc.
 
 **BlackRoad-OS-Inc** — Corporate root — all IP and governance
